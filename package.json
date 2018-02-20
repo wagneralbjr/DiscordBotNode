@@ -1,0 +1,14 @@
+{
+  "name": "botdowawa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "author": "wagner alberto",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "eslint": "^4.17.0",
+    "mysql": "^2.15.0",
+    "snekfetch": "^3.6.4"
+  }
+}
